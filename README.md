@@ -1,5 +1,4 @@
 # Shell_script
-This repository have my codes on Shell Script
 
 Problema1: algoritmo recebe dois números como parâmetros dis qual o maior e realiza a soma.
 
@@ -17,7 +16,7 @@ Problema7: algoritmo retorna as datas que haverão aula durante sesmestre, apart
 
 Problema8: algoritmo recebe como parâmetro uma lista de palavras e retorna a lista ordenada.
 
-Problema9: algoritmo recebe, iterativamente, palavras e a cada palavra adicionada exibe a lista de palavras ordenada, o script finaliza quando o usuário digitar a palavra "sair".
+ProblemaThis repository have my codes on Shell Script9: algoritmo recebe, iterativamente, palavras e a cada palavra adicionada exibe a lista de palavras ordenada, o script finaliza quando o usuário digitar a palavra "sair".
 
 Problema10: algoritmo realiza as operações de soma/subtração, multiplicação e divisão entre inteiros, recendo como parametros os operandos e operador.
 
