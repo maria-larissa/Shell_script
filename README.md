@@ -23,3 +23,5 @@ Problema10: algoritmo realiza as operações de soma/subtração, multiplicaçã
 Problema11: algoritmo retorna a lista de todos os usuários cadastrados no sistema e seus respectivos diretórios home.
 
 Problema12: algoritmo acessa o arquivo /etc/passwd analisa e retorna o shel mais utilizados dentre os usuários existente no sistema.
+
+Problema13: algoritmo renomea arquivos textos, em um certo diretório, de acordo com a primeira palavra encpntrada no conteúdo. 
