@@ -1,12 +1,12 @@
 # Shell_script
 
-Problema1: algoritmo recebe dois números como parâmetros dis qual o maior e realiza a soma.
+- `Problema1:` algoritmo recebe dois números como parâmetros dis qual o maior e realiza a soma.
 
-Problema2: algoritmo recebe o nome de um usuário e verifica se é um usuario válido no sistema. 
+- `Problema2:` algoritmo recebe o nome de um usuário e verifica se é um usuario válido no sistema. 
 
-Problema3: algoritmo recebe como parâmetro um caminho de um diretorio listas todos os arquivos existentes, destacando os diretórios (dir).
+- `Problema3:` algoritmo recebe como parâmetro um caminho de um diretorio listas todos os arquivos existentes, destacando os diretórios (dir).
 
-Problema4: algoritmo recebe como parâmetro um número e imprime todos os numeros pares de 0 até o numero informado.
+- `Problema4:` algoritmo recebe como parâmetro um número e imprime todos os numeros pares de 0 até o numero informado.
 
 Problema5: algoritmo recebe como parâmetro o nome de um arquivo, verifica se existe e mostra seu tamaho em bytes.
 
@@ -25,3 +25,5 @@ Problema11: algoritmo retorna a lista de todos os usuários cadastrados no siste
 Problema12: algoritmo acessa o arquivo /etc/passwd analisa e retorna o shel mais utilizados dentre os usuários existente no sistema.
 
 Problema13: algoritmo renomea arquivos textos, em um certo diretório, de acordo com a primeira palavra encpntrada no conteúdo. 
+
+![GitHub Org's stars](https://img.shields.io/github/stars/maria-larissa?style=social)
